@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\josue\\source\\repos\\proyectofinal\\proyectofinal\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\josue\\source\\repos\\proyectofinal\\proyectofinal\\pages\\modificarreservacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\modificarreservacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\modificarreservacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\modificarreservacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\habitacion\\editarhabitacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\habitacion\\editarhabitacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\habitacion\\editarhabitacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\habitacion\\editarhabitacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\habitacion\\crearhabitacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\habitacion\\crearhabitacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\confirmacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\confirmacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\detallereservacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\detallereservacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\josue\\source\\repos\\ProyectoFinal\\proyectofinal\\pages\\confirmacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64549B7E-1359-43BE-85B4-C0CCA8FD7820}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\pages\\confirmacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 183,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Site.Master",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Site.Master",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Site.Master",
+              "RelativeToolTip": "ProyectoFinal\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-03T17:51:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarReservacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\ModificarReservacion.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\ModificarReservacion.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\ModificarReservacion.aspx.cs",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\ModificarReservacion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:32:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModificarReservacion.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\ModificarReservacion.aspx",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\ModificarReservacion.aspx",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\ModificarReservacion.aspx",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\ModificarReservacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T01:31:43.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarHabitacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx.cs",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAgwDQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T01:29:53.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditarHabitacion.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\habitacion\\EditarHabitacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T01:29:25.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearHabitacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\CrearHabitacion.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\habitacion\\CrearHabitacion.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\habitacion\\CrearHabitacion.aspx.cs",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\habitacion\\CrearHabitacion.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T21:51:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleReservacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\DetalleReservacion.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\DetalleReservacion.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\DetalleReservacion.aspx.cs",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\DetalleReservacion.aspx.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwFkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T21:54:30.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Confirmacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\Confirmacion.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\Confirmacion.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\Confirmacion.aspx.cs",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\Confirmacion.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:59:59.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Confirmacion.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\Confirmacion.aspx",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Pages\\Confirmacion.aspx",
+              "ToolTip": "C:\\Users\\josue\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Pages\\Confirmacion.aspx",
+              "RelativeToolTip": "ProyectoFinal\\Pages\\Confirmacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T20:59:19.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
